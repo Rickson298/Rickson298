@@ -3,13 +3,13 @@
 </div>
  
   <hr>
- <div align="center>
+ <div align="center">
   <a href="https://github.com/Rickson298">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Rickson298&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickson298&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <hr>
-  <br/> 
+
   
 <div align="center"> 
   <a href = "mailto:rickson.patrick13@gmail.com"><img align="center"  height="45" width="67" src="https://marcas-logos.net/wp-content/uploads/2020/01/Gmail-Logo-1-600x375.png"></a>
