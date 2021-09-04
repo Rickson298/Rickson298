@@ -14,7 +14,7 @@
    ## Contatos
 <div align="left"> 
 
-  <a href = "mailto:rickson.patrick13@gmail.com"><img align="center"  height="45" width="55" src="https://user-images.githubusercontent.com/88171582/132102141-563fce53-9525-44f8-a695-572c21a1a365.png"></a>
-  <a href="https://www.linkedin.com/in/rickson-oliveira-dev/" target="_blank"><img align="center"  height="50" width="50"  src="https://user-images.githubusercontent.com/88171582/132100340-230eae1b-8645-471f-9fd8-1e5f8b59115a.png" target="_blank"></a> 
-<a href="http://api.whatsapp.com/send?phone=5519995689263" target="_blank"><img align="center"  height="50" width="50"  src="https://user-images.githubusercontent.com/88171582/132101976-f3129146-29e6-442c-a10d-5f90a4714ecd.png" target="_blank"></a> 
+  <a href = "mailto:rickson.patrick13@gmail.com"><img align="center"  height="40" width="45" src="https://user-images.githubusercontent.com/88171582/132102141-563fce53-9525-44f8-a695-572c21a1a365.png"></a>
+  <a href="https://www.linkedin.com/in/rickson-oliveira-dev/" target="_blank"><img align="center"  height="40" width="40"  src="https://user-images.githubusercontent.com/88171582/132100340-230eae1b-8645-471f-9fd8-1e5f8b59115a.png" target="_blank"></a> 
+<a href="http://api.whatsapp.com/send?phone=5519995689263" target="_blank"><img align="center"  height="40" width="40"  src="https://user-images.githubusercontent.com/88171582/132101976-f3129146-29e6-442c-a10d-5f90a4714ecd.png" target="_blank"></a> 
 </div>
