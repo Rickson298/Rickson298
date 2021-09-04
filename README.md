@@ -2,7 +2,6 @@
   <img align="center" alt="Rick-materialize" height="250" width="1400" src="https://user-images.githubusercontent.com/88171582/132100480-2a125698-ac53-451a-95aa-6733e90f2963.JPG">
 </div>
  
- <br/> 
   <hr>
  <div>
   <a href="https://github.com/Rickson298">
@@ -14,7 +13,7 @@
   
  
 <div align="center"> 
-   <br/> <br/>
+   <br><br/>
   <a href = "mailto:rickson.patrick13@gmail.com"><img align="center"  height="45" width="67" src="https://marcas-logos.net/wp-content/uploads/2020/01/Gmail-Logo-1-600x375.png"></a>
   <a href="https://www.linkedin.com/in/rickson-oliveira-dev/" target="_blank"><img align="center"  height="50" width="50"  src="https://user-images.githubusercontent.com/88171582/132100340-230eae1b-8645-471f-9fd8-1e5f8b59115a.png" target="_blank"></a> 
 </div>
