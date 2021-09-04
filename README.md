@@ -1,12 +1,12 @@
  <div style="display: inline_block"><br>
-  <img align="center" alt="Rick-materialize" height="20%" width="100%" src="https://user-images.githubusercontent.com/88171582/132100480-2a125698-ac53-451a-95aa-6733e90f2963.JPG">
+  <img align="center" alt="Rick-materialize"  width="100%" src="https://user-images.githubusercontent.com/88171582/132100480-2a125698-ac53-451a-95aa-6733e90f2963.JPG">
 </div>
  
   <hr>
  <div>
   <a href="https://github.com/Rickson298">
-  <img align="left" height="160em" src="https://github-readme-stats.vercel.app/api?username=Rickson298&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickson298&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Rickson298&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickson298&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <hr>
   <br/> <br/>
