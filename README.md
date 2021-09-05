@@ -1,16 +1,16 @@
   ## 💻 Tecnologias
  
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rick-materialize"  width="100%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
+  <img align="center" alt="Rick-materialize"  width="90%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
 </div>
  
    ## ⚡ GitHub Stats
  <div align="center">
   
   <a href="https://github.com/Rickson298">
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rickson298&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="100%" width="45%" src="https://github-readme-stats.vercel.app/api?username=Rickson298&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
-  <img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickson298&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="100%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickson298&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 
