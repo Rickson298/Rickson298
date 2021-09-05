@@ -18,13 +18,8 @@
 
   <div align="left"> 
     <img align="center" alt="Rick-img"  width="50%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
-</div> <br>
+   <img align="right" height="150" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif">
+</div> 
+   
 
-
-   ## 
-<div align="center"> 
-
-<img align="center" height="150" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif">
-  </div>
-  
  
