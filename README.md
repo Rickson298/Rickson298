@@ -22,7 +22,7 @@
 
 
    ## 
-<div align="center"> 
+<div align="left"> 
 
 <img align="center" height="150" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif">
   </div>
