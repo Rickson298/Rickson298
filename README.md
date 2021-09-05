@@ -21,3 +21,4 @@
   <a href="https://www.linkedin.com/in/rickson-oliveira-dev/" target="_blank"><img align="center"  height="40" width="40"  src="https://user-images.githubusercontent.com/88171582/132100340-230eae1b-8645-471f-9fd8-1e5f8b59115a.png" target="_blank">   Linkedin   </a> <br><br>
 <a href="http://api.whatsapp.com/send?phone=5519995689263" target="_blank"><img align="center"  height="40" width="40"  src="https://user-images.githubusercontent.com/88171582/132101976-f3129146-29e6-442c-a10d-5f90a4714ecd.png" target="_blank">   Whatsapp</a> 
 </div>
+  <div align="center"><img align="center" height="300" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif"></div>
