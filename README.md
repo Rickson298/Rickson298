@@ -9,13 +9,12 @@
  
  ### GitHub Stats
  <div align="center">
-  
   <a href="https://github.com/Rickson298">
   <img align="center" 
        width="49%" src="https://github-readme-stats.vercel.app/api?username=Rickson298&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- 
   <img align="center"
        width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickson298&layout=compact&langs_count=7&theme=dark"/>
+   </a>
     </div>
  
  ### Tecnologias Front-end
