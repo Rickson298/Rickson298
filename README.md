@@ -1,7 +1,7 @@
   ## 💻 Tecnologias
  
  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Rick-materialize"  width="80%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
+  <img align="center" alt="Rick-materialize"  width="100%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
 </div>
  
    ## ⚡ GitHub Stats
