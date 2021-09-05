@@ -1,9 +1,12 @@
- <div style="display: inline_block"><br>
-  <img align="center" alt="Rick-materialize"  width="100%" src="https://user-images.githubusercontent.com/88171582/132100480-2a125698-ac53-451a-95aa-6733e90f2963.JPG">
+  ## 💻 Tecnologias
+ 
+ <div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Rick-materialize"  width="80%" src="https://user-images.githubusercontent.com/88171582/132111436-df026aa0-73c4-40fa-8a8b-ee240f9768e4.png">
 </div>
  
-  <hr>
+   ## ⚡ GitHub Stats
  <div align="center">
+  
   <a href="https://github.com/Rickson298">
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=Rickson298&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
  
@@ -11,7 +14,7 @@
 </div>
 
 
-   ## Contatos
+   ## 📞 Contatos 
 <div align="left"> 
 
   <a href = "mailto:rickson.patrick13@gmail.com"><img align="center"  height="40" width="45" src="https://user-images.githubusercontent.com/88171582/132102141-563fce53-9525-44f8-a695-572c21a1a365.png"></a>
