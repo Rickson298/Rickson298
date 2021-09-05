@@ -9,8 +9,8 @@
  
   <img align="center" height="100%" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickson298&layout=compact&langs_count=7&theme=dark"/>
     </div> <br>
-  <div>
-    <img align="left" alt="Rick-img"  width="40%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
+  <div align="center">
+    <img align="center" alt="Rick-img"  width="50%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
 </div> <br><br>
 
 
