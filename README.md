@@ -1,4 +1,5 @@
- ### Olá! Eu sou o Rickson Oliveira, desenvolvedor Front-end
+ ### Olá! Eu sou o Rickson Oliveira, desenvolvedor Front-end (:coffee::computer::bulb::heart:)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=85C351&lines=Front+end+developer+;Full+stack+55%25..;56%25...;57%25...)](https://git.io/typing-svg)
  <div align="left">
    <a href = "mailto:rickson.patrick13@gmail.com"><img align="center"  width="40" src="https://user-images.githubusercontent.com/88171582/132102141-563fce53-9525-44f8-a695-572c21a1a365.png"> </a> 
   <a href="https://www.linkedin.com/in/rickson-oliveira-dev/" target="_blank"><img  align="center"   width="40"  src="https://user-images.githubusercontent.com/88171582/132100340-230eae1b-8645-471f-9fd8-1e5f8b59115a.png" target="_blank"></a> 
@@ -17,12 +18,16 @@
    </a>
     </div>
  
- ### Tecnologias Front-end
-
-  <div align="center"> 
-    <img align="left" alt="Rick-img"  width="50%" src="https://user-images.githubusercontent.com/88171582/132111646-3c8fe1cc-8b73-46c4-85a6-3dd313a23f88.png">
-   <img align="right" width="30%" src="https://blogdoiphone.com/wp-content/uploads/2020/02/97387022d579d0d9806c8c3e176434f7.gif">
-</div> 
-   
+ ### Tecnologias 
+ ![HTML5](https://img.icons8.com/color/30/html-5.png)
+![CSS3](https://img.icons8.com/color/30/css3.png)
+![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![SASS](https://img.icons8.com/color/30/sass.png)
+![Github](https://img.icons8.com/material-outlined/30/github.png)
+![Gitlab](https://img.icons8.com/color/30/gitlab.png)
+![Git](https://img.icons8.com/color/30/git.png)
+![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
+![ReactJS](https://img.icons8.com/color/30/react-native.png)
+![Console](https://img.icons8.com/color/30/console.png)
 
  
