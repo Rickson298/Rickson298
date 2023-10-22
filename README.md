@@ -22,6 +22,15 @@
   
 <img 
  align="center"
+ src="https://blog.jeremylikness.com/blog/2019-03-05_typescript-for-javascript-developers-by-refactoring-part-1-of-2/images/1.jpeg" width="36" />
+<img 
+ align="center"
+ src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="36" />
+<img 
+ align="center"
+ src="https://www.shareicon.net/data/512x512/2016/07/10/119473_development_512x512.png" width="50" />
+<img 
+ align="center"
  src="https://www.tutomena.com/assets/thumbnails/svelte.png" width="40" />
 <img 
  align="center"
@@ -64,8 +73,22 @@ width="44"
 />
 <img
  align="center"
-src="![image](https://github.com/Rickson298/Rickson298/assets/88171582/00065ebe-50ba-4ece-97fb-4791056ead49)
-"
+src="https://github.com/Rickson298/Rickson298/assets/88171582/00065ebe-50ba-4ece-97fb-4791056ead49"
+width="44"
+/>
+<img
+ align="center"
+src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
+width="44"
+/>
+<img
+ align="center"
+src="https://vanseodesign.com/blog/wp-content/uploads/2015/09/sass-logo-2.png"
+width="44"
+/>
+<img
+ align="center"
+src="https://github.com/Rickson298/Rickson298/assets/88171582/b4a2b1a7-78c1-4a60-a3eb-93256704e3cb"
 width="44"
 />
 
