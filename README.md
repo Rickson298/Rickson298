@@ -91,6 +91,16 @@ width="44"
 src="https://github.com/Rickson298/Rickson298/assets/88171582/b4a2b1a7-78c1-4a60-a3eb-93256704e3cb"
 width="44"
 />
+<img
+ align="center"
+src="https://i.pinimg.com/originals/88/1b/06/881b06d143b5be5861fdbb1e214d2f0a.png"
+width="44"
+/>
+<img
+ align="center"
+src="https://th.bing.com/th/id/OIP.jb1pi2MV6Sur4zSCQ6WwJwAAAA?pid=ImgDet&w=400&h=190&rs=1"
+width="44"
+/>
 
 </div>
  
