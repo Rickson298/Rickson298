@@ -93,6 +93,11 @@ width="44"
 />
 <img
  align="center"
+src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png"
+width="44"
+/>
+<img
+ align="center"
 src="https://i.pinimg.com/originals/88/1b/06/881b06d143b5be5861fdbb1e214d2f0a.png"
 width="44"
 />
